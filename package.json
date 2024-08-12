@@ -1,0 +1,26 @@
+{
+  "name": "nodeexpressapi",
+  "version": "1.0.0",
+  "description": "API creation at postman checks",
+  "main": "sever.js",
+  "scripts": {
+    "test": "node mongo commands"
+  },
+  "keywords": [
+    "mongoose",
+    "passport",
+    "express-session",
+    "ejs",
+    "body-parser",
+    "passport-local",
+    "passport-local-mongoose"
+  ],
+  "author": "drakshayani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
